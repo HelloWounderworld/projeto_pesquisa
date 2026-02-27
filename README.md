@@ -49,7 +49,7 @@ Alem disso, enquanto foi apresentado os estudos acima focado para melhorar a pre
 - a identificação de uma nova classe de medidas de importância de características aditivas;
 - resultados teóricos que mostram que há uma solução única nessa classe com um conjunto de propriedades desejáveis.
 
-O que foi visto como algo bastante promissora e, ao mesmo tempo, componentes desejaveis, visto os estudos comparativos de modelos carecem desses tipos de analise. Porem, como foi comentado com base nos estudos comparativos anteriores, nenhuma delas, dentro das metricas foi aplicado tal metodo na tentativa de explicar o motivo da previsao ter sido precisa focando, apenas, na melhora da precisao. Muito menos, no artigo que implementa o SHAP, nao foi feito algum estudo focado em investigar quais os tipos de features estaveis, que sera a proposta deste projeto, visto que o estudo ela foca somente em conseguir desenvolver uma tecnica de seja possivel explicar o motivo das previsoes serem eficientes.
+O que foi visto como algo bastante promissora e, ao mesmo tempo, componentes desejaveis, visto os estudos comparativos de modelos carecem desses tipos de analise. Porem, como foi comentado com base nos estudos comparativos anteriores, nenhuma delas, dentro das metricas foi aplicado tal metodo na tentativa de explicar o motivo da previsao ter sido precisa focando, apenas, na melhora da precisao. Muito menos, no artigo que implementa o SHAP, nao foi feito algum estudo focado em investigar quais os tipos de features estaveis, que sera a proposta deste projeto, este artigo foca, somente, em mostrar as bases matematicas que focam o que indica na interpretabilidade das relevancias das features.
 
 Alem disso, no estudo de um levantamento mais recente que foi encontrado sobre a capacidade de explicabilidade foi feito pelo Haiyan Zhao (2024) [5]. Nela, foi mostrado uma anatomia que mostra as subdivisoes onde seria possivel a aplicaao de explicabilidade e, dentro dessas subdivisoes, reside a parte onde esse projeto de pesquisa esta focado que seria na obtencao de features estaveis para utilizacao de tais parametros no momento em que for realizar os ajustes finos.
 
@@ -266,6 +266,7 @@ O Cronograma de Atividades é o planejamento e organização da pesquisa e da es
 
 | Atividades planejadas | Marco/2026 | Abril/2026 | Maio/2026 | Junho/2026 | Julho/2026 | Agosto/2026 | Setembro/2026 | Outubro/2026 | Novembro/2026 | Dezembro/2026 | Janeiro/2027 | Fevereiro/2027 |
 |-----------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|--------|--------|
+|Submissao do projeto de Pesquisa.| X |       |       |       |       |       |       |       |       |        |        |        |
 |Obtencao dos conjuntos de dados.| X |       |       |       |       |       |       |       |       |        |        |        |
 |Construcao dos algoritmos e arquiteturas dos sistemas.| X |       |       |       |       |       |       |       |       |        |        |        |
 |Revisao dos artigos e estudos teoricos e conceituais profundos.| X |       |       |       |       |       |       |       |       |        |        |        |
